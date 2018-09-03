@@ -1,0 +1,4 @@
+language:  matlab
+
+script:
+  - matlab test.m
